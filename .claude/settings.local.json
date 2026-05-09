@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node scripts/setup-db.js)",
+      "Bash(node scripts/migrate-conversations.js)"
+    ]
+  }
+}
